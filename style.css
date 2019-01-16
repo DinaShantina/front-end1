@@ -1,0 +1,99 @@
+.navbar-brand img, .navbar-brand span {
+    display: inline;
+}
+
+.navbar-brand {
+    padding: 0;
+}
+
+.Mainbg {
+    background-image: url(mountains.jpg);
+    background-position: center;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* .navbar-default {
+    height: 10vh;
+} */
+
+.textWhite {
+    color: white;
+}
+
+.Mainbg img {
+    margin-right: 0;
+}
+
+.fontMain {
+    font-size: 8rem;
+}
+
+.fontPmain {
+    font-size: 3rem;
+}
+
+.buttonFxirst {
+    border: 1px solid grey;
+    background-color: transparent;
+    font-size: 1.5rem;
+    padding: 5px 10px 5px 10px;
+}
+
+.py-1 {
+    padding-top: 10%;
+}
+
+.py-2 {
+    padding: 50px 0 50px 0;
+}
+
+.py-3 {
+    padding: 20px 0 20px 0;
+}
+
+.bgGrey {
+    background-color: rgb(41, 40, 40);
+}
+
+.firstAlert {
+    border: 1px solid blue;
+    border-radius: 10px;
+}
+
+.alertBg {
+    background-color: rgb(28, 94, 138);
+}
+
+.borderDown {
+    margin-bottom: 20px;
+    border-bottom: 2px solid rgb(179, 175, 175);
+}
+
+.panelBg {
+    border: 1px solid rgb(179, 175, 175);
+    margin-bottom: 0;
+    background-color: rgb(246, 244, 244);
+}
+
+.bglighGrey {
+    background-color: rgb(246, 244, 244);
+}
+
+.list-inline {
+    padding: 20px;
+}
+
+.imgMargin {
+    margin-top: -30px;
+}
+
+.logoPadding {
+    padding-top: 80px;
+}
+
+.bgBlue {
+    background-color: blue;
+}
